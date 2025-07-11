@@ -1,4 +1,3 @@
 @pagelsr
-README.MD 	@pagelsr
-/docs/*		@docs-team
- *.js 			@js-team
+README.MD  @pagelsr
+/docs/*  @docs-team
